@@ -1,0 +1,18 @@
+{
+"open_s002":{"folderType": 4},
+"open_s003":{"page": 1,"limit": 12},
+"open_s004":{"condense":"1","cycleType":"1","days":"","emailTitle":"1","endDate":"2020-12-31 23:59:59","endDateStr":"2020-12-31 23:59:59","jobDesc":"","jobName":"1","jobStatus":"1","startDate":"2019-12-03 01:15:00","startDateStr":"2019-12-03 01:15:00","timeZone":"12","userEmail":"2975724990@qq.com","weeks":"","resource":"1","weekNameArr":[],"dayArr":[],"startTime":"01:15","templateContent":""},
+"open_s005":{"condense":"1","cycleType":"1","days":"","emailTitle":"1","endDate":"2020-12-31 23:59:59","endDateStr":"2020-12-31 23:59:59","id":"254298342664687616610","jobDesc":"","jobName":"1","jobStatus":"1","startDate":"2019-12-03 01:15:00","startDateStr":"2019-12-03 01:15:00","timeZone":"12","userEmail":"2975724990@qq.com","weeks":"","resource":"1","weekNameArr":[],"dayArr":[],"startTime":"01:15","updateDate":"2019-12-03 17:30:49","timeZoneConfig":"{\"endDate\":\"2020-12-31 23:59:59\",\"startDate\":\"2019-12-03 01:15:00\",\"timeZoneGMT\":\"GMT-06:00\",\"timeZoneId\":\"12\",\"timeZoneName\":\"(UTC-06:00) Guadalajara, Mexico City, Monterrey\",\"zoneCron\":\"0 15 1 * * ?\",\"zoneEndDate\":\"2021-01-01 13:59:59\",\"zoneStartDate\":\"2019-12-03 15:15:00\"}","jobCron":"0 15 15 * * ?","pId":"a003","userId":"237606922235138048610","retryNum":0,"tenantId":"a025","nextExecutorTime":"2019-12-04 15:15:00","createDate":"2019-12-03 17:30:49"},
+"open_s006":{},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{"boardPlanId":"254329873475031040610","page":1,"limit":20},
+"open_s010":{},
+"open_s011":{"page": 1,"limit": 8},
+"open_s012":{},
+"open_s013":{},
+"open_s014":{"subscriptionid":"254549850241093632610","unitidlist":[]},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}

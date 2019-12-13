@@ -1,0 +1,18 @@
+{
+"open_s002":{"tenantId":"t00002","calendarName":"121"},
+"open_s003":{"tenantId":"t00002","calendarName":"121","modCalendarId":"257440108595105792610"},
+"open_s004":{"calendarYearName":"1","accountCycle":445,"startDate":"2019-12-12 00:00:00","endDate":"2019-12-14 00:00:00","isNewWeek":2,"autoCalendarData":"1","calendarDefId":"257445744527527936610","tenantId":"t00002"},
+"open_s005":{"calendarYearName":"1","accountCycle":445,"startDate":"2019-12-04 00:00:00","endDate":"2019-12-09 23:59:59","isNewWeek":2,"autoCalendarData":"1","calendarDefId":"257445744527527936610","tenantId":"t00002","id":"257452129256460288610"},
+"open_s006":{},
+"open_s007":{},
+"open_s008":{},
+"open_s009":{},
+"open_s010":{"calendarId":"257457663615422464610","page":1,"limit":20},
+"open_s011":{"calendarId":"257457663615422464610","page":1,"limit":20},
+"open_s012":{"calendarId":"257457663615422464610","shopPriIdList":["239802782666706944611"]},
+"open_s013":{},
+"open_s014":{},
+"open_s015":{},
+"open_s016":{},
+"open_s017":{}
+}
